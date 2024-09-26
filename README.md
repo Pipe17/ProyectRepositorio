@@ -8,7 +8,7 @@
 ### Fase 2: Análisis
 - **documento_analisis.pdf**: Detalles del análisis realizado para el proyecto.
 ### Fase 3: Diseño
-
+- **Diseño Baymax.pdf**: Diseño realizado para el proyecto
 
 ### Fase 4: Desarrollo
 
