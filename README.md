@@ -3,10 +3,10 @@
 ## Documentos por Fase
 
 ### Fase 1: Descripción Inicial
-- **documento_descripcion_inicial.md**: Proporciona una visión general del proyecto, objetivos y alcance.
+- **documento_descripcion_inicial.pdf**: Proporciona una visión general del proyecto, objetivos y alcance.
 
 ### Fase 2: Análisis
-- **documento_analisis.md**: Detalles del análisis realizado para el proyecto.
+- **documento_analisis.pdf**: Detalles del análisis realizado para el proyecto.
 ### Fase 3: Diseño
 
 
