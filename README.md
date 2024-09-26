@@ -6,8 +6,6 @@
 - **documento_descripcion_inicial.md**: Proporciona una visión general del proyecto, objetivos y alcance.
 
 ### Fase 2: Análisis
-- **documento_analisis.md**: Detalles del análisis realizado para el proyecto.
-- **datos_analisis.csv**: Datos utilizados en el análisis.
 
 ### Fase 3: Diseño
 
