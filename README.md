@@ -22,8 +22,8 @@ El proyecto utiliza un sistema de control de versiones (Git) para documentar los
 
 ### Historial de Cambios
 - **v1.0.0**: Lanzamiento inicial con todos los documentos de la fase 1.
-- **v1.1.0**: Actualización del documento de análisis y adición de datos relevantes.
-- **v1.1.1** (Fecha: 2024-10-22): Actualización del documento de descripción inicial.
-
+- **v1.0.1**: Actualización del documento de análisis y adición de datos relevantes.
+- **v1.0.2** (Fecha: 2024-10-22): Actualización del documento de descripción inicial.
+- **v1.0.3** (Fecha: 2024-10-22): Actualización del documento de analisis
 
 
