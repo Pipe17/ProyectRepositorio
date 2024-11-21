@@ -18,7 +18,13 @@
 ### Fase 6: Entrega
 
 ### Fase 7: Matrices
-- **MatrizRiesgo**
+- **MatrizRiesgo.pdf**
+- **MatrizPriorizacionFuncionalidades.pdf**
+- **MatrizRequirimientos.pdf**
+- **MatrizRiesgo.pdf**
+- **MatrizTesteo.pdf**
+- **MatrizTrazabilidad.pdf**
+
 ## Gestión de Versiones
 El proyecto utiliza un sistema de control de versiones (Git) para documentar los cambios importantes en los documentos. Cada cambio significativo se registra en los mensajes de commit.
 
