@@ -17,6 +17,8 @@
 
 ### Fase 6: Entrega
 
+### Fase 7: Matrices
+- **MatrizRiesgo**
 ## Gestión de Versiones
 El proyecto utiliza un sistema de control de versiones (Git) para documentar los cambios importantes en los documentos. Cada cambio significativo se registra en los mensajes de commit.
 
@@ -25,5 +27,5 @@ El proyecto utiliza un sistema de control de versiones (Git) para documentar los
 - **v1.0.1**: Actualización del documento de análisis y adición de datos relevantes.
 - **v1.0.2** (Fecha: 2024-10-22): Actualización del documento de descripción inicial.
 - **v1.0.3** (Fecha: 2024-10-22): Actualización del documento de analisis
-
+- **v1.0.34* (Fecha: 2024-11-21): Matrices 
 
